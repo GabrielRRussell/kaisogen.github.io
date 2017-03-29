@@ -1,0 +1,19 @@
+body {
+	background-color: #2B7C94;
+}
+h1 {
+	background-color: #40798C;
+	color: #0B132B;
+	font-family: Monospace;
+	text-align: center;
+}
+p {
+	font-family: Monospace;
+	text-align: center;
+}
+
+ui {
+	font-family: Monospace;
+	text-align: center;
+	background-color: #0B132B;
+}
