@@ -1,9 +1,10 @@
 body {
-	background-color: #2B7C94;
+	background-color: white;
+	text-align: center;
 }
 h1 {
-	background-color: #40798C;
-	color: #0B132B;
+	background-color: white;
+	color: black;
 	font-family: Monospace;
 	text-align: center;
 }
@@ -15,5 +16,4 @@ p {
 ui {
 	font-family: Monospace;
 	text-align: center;
-	background-color: #0B132B;
 }
